@@ -1,0 +1,34 @@
+.heading {
+    font-size: 32px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    color: darkorange;
+    font-family: Showcard Gothic;
+}
+
+.note {
+    font-size: 18px;
+    color: burlywood;
+    font-family: Forte;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: gainsboro;
+    bottom: 0;
+    width: 100%;
+    background: grey;
+    line-height: 3;
+    text-align: right;
+}
+
+canvas {
+    border: 4px solid white;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px lightgrey;
+}
+
+input {
+    font-size: 14px;
+    font-family: Roboto;
+}
